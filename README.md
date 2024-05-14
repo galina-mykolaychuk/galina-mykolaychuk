@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @galina-mykolaychuk. You can also find my works by nickname Flawia.
 - 👀 I’m interested in many things like English, coding, handmade, books and others.
-- 🌱 I’m currently learning html & css.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: gflawiae@gmail.com
 - ⚡ Fun fact: I love pets, especially cats and hamsters :)
 

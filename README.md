@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8x2hdf.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/8x2hdf.gif" alt="Sailormoon study"  />
 
 ###
 

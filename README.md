@@ -1,9 +1,9 @@
 <h1 align="left"> 👋 Hello, I'm Galina - a student developer from Ukraine <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1fa-1f1e6.png" height="30" alt="Ukrainian flag" /></h1><br> 
-<h2 align="left"> 
+<h3 align="left"> 
 <li>Welcome to my page! I've been creating bugs since 2007 :sweat_smile: Initially, it was my hobby and I was self-taught. However, I eventually decided to study in the IT field and become a professional developer. So now I am studying to become a Fullstack developer, trying to improve my English, and learning JavaScript.</li><br>
 <li>I am interested in many things, such as photography, languages, coding, books, crafts, and more. I have a lot of ideas and dream of bringing them to life. :dizzy: :sparkles: </li><br>
 <li>Fun fact: I love pets, especially cats and hamsters 🐹 </li><br>
-<li>Nice to meet you :smirk: For collaboration, write here: 📧 gflawiae@gmail.com</li><br></h2>
+<li>Nice to meet you :smirk: For collaboration, write here: 📧 gflawiae@gmail.com</li><br></h3>
 
 ###
 

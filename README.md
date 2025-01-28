@@ -1,6 +1,6 @@
-<h1 align="left"> 👋 Hello, I'm Galina - a student developer from Ukraine <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1fa-1f1e6.png" height="30" alt="Ukrainian flag" /></h1><br> 
+<h1 align="left"> 👋 Hello, I'm Galina - a junior developer from Ukraine! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/512px/1f1fa-1f1e6.png" height="30" alt="Ukrainian flag" /></h1><br> 
 <h3 align="left"> 
-<li>Welcome to my page! I've been creating bugs since 2007 :sweat_smile: Initially, it was my hobby and I was self-taught. However, I eventually decided to study in the IT field and become a professional developer. So now I am studying to become a Fullstack developer, focused on learning JavaScript and React. And constantly learning English.</li><br>
+<li>Welcome to my page! I've been creating bugs since 2007. :sweat_smile: Initially, it was my hobby, and I was self-taught. Later, I decided to become a professional and studied a Fullstack Developer course at GoIT Academy. Now, I'm focused on learning React, finding my way in the IT field, and improving my English.</li><br>
 <li>I am always expanding my knowledge and interested in many things, such as photography, languages, coding, books, handmade, and more. I have a lot of ideas and dream of bringing them to life. :dizzy: :sparkles: </li><br>
 <li>Fun fact: I love pets, especially cats and hamsters 🐹 </li><br>
 <li>Nice to meet you :smirk: For collaboration, write here: 📧 gmykolaychuk@gmail.com</li><br></h3>
